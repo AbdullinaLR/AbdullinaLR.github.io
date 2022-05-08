@@ -5,12 +5,33 @@
     <link>https://AbdullinaLR.github.io/tag/education/</link>
       <atom:link href="https://AbdullinaLR.github.io/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://AbdullinaLR.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Education</title>
       <link>https://AbdullinaLR.github.io/tag/education/</link>
     </image>
+    
+    <item>
+      <title>First post</title>
+      <link>https://AbdullinaLR.github.io/post/lastweek2/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://AbdullinaLR.github.io/post/lastweek2/</guid>
+      <description>&lt;h2 id=&#34;labs&#34;&gt;Labs&lt;/h2&gt;
+&lt;p&gt;Last week was spent doing Lab works №5,№6 and a Personal Project. It was stressful but I had to overcome this in order to be better in my OC class. Because of my gard work I was able to finish everything in time. Plus, two of my friend turned 19, so together we celebrayed their birthdays.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://AbdullinaLR.github.io/post/markdown/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://AbdullinaLR.github.io/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language with plain text formatting syntax. The documentation supports Markdown according to CommonMark and its parsing through the Markdig subsystem. The documentation also supports custom Markdown extensions that provide more extensive content on the documentation site.&lt;/p&gt;
+&lt;p&gt;You can use any text editor to write Markdown, but we recommend Visual Studio Code with the Docs Authoring Pack extension. The Docs Authoring Pack extension includes editing tools and preview features that let you see what articles will look like on the Documentation site.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First post</title>
